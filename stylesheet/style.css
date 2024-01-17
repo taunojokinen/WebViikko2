@@ -1,0 +1,42 @@
+p {
+    
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 2%;  
+    background-color: #333;
+     
+}
+
+li {
+    display:inline-block;
+    color: aliceblue;
+    text-align: center; 
+    padding-left: 8%;
+    padding-right: 7%;
+}
+
+li a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    padding: 0.5 em 1em;
+
+}
+
+li a:hover {
+    background-color: blue;
+    font-weight: bold;
+}
+
+#tasaus {
+    align-content: stretch;
+    align-content: space-evenly;
+    text-align: justify;
+    padding-left: 5%;
+    padding-right: 5%; 
+
+    
+}
